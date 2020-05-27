@@ -33,6 +33,8 @@ body {
     display: flex;
     align-items: center;
     width: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 .search input{
     width: 100%;
@@ -40,5 +42,7 @@ body {
     border: none;
     background-color: transparent;
     color: #fff;
-    outline: none;
+}
+.search input:focus{
+    outline:none;
 }
