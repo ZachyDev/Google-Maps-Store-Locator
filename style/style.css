@@ -46,3 +46,10 @@ body {
 .search input:focus{
     outline:none;
 }
+.search i{
+    color: #fff;
+    font-size: 25px;
+    position: absolute;
+    right: 20px;
+
+}
