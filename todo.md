@@ -1,8 +1,8 @@
 # Plan Of Action
 
--Create Wireframe
+-Create Wireframe DONE
 
--Set Up the base HTML structure
+-Set Up the base HTML structure DONE
 
 -Import Google maps into the window
 
