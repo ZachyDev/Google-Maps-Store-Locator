@@ -51,5 +51,15 @@ body {
     font-size: 25px;
     position: absolute;
     right: 20px;
-
+}
+.stores-list-container{
+    width: 400px;
+    /* height: 400px; */
+    background-color: #fff;
+    position: absolute;
+    z-index: 30;
+    top: 320px;
+    border-radius: 30px;
+    left: 100px;
+    bottom: 0;
 }
