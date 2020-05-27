@@ -1,12 +1,12 @@
  // Your web app's Firebase configuration
  var firebaseConfig = {
-    apiKey: "AIzaSyBLaEfhoJBDxhrxYVVj3Zoj6lDHrcjgK24",
-    authDomain: "store-locator-f216f.firebaseapp.com",
-    databaseURL: "https://store-locator-f216f.firebaseio.com",
-    projectId: "store-locator-f216f",
-    storageBucket: "store-locator-f216f.appspot.com",
-    messagingSenderId: "410157577182",
-    appId: "1:410157577182:web:25b310f28c3c52e283e34f"
+    apiKey: "AIzaSyA7DPCBZc9acKvA9W1zA0AZE-NiUMvTL8k",
+    authDomain: "store-locator-57b7e.firebaseapp.com",
+    databaseURL: "https://store-locator-57b7e.firebaseio.com",
+    projectId: "store-locator-57b7e",
+    storageBucket: "store-locator-57b7e.appspot.com",
+    messagingSenderId: "851591219619",
+    appId: "1:851591219619:web:1e5352dbd06dafb3a3f216"
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
