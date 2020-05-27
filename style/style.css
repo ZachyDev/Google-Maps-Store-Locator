@@ -18,3 +18,12 @@ body {
     text-transform: uppercase;
     color: #333;
 }
+.search-container{
+    width: 400px;
+    height: 60px;
+    background-color: rgb(55,55,56);
+    position: absolute;
+    z-index: 30;
+    top:230px;
+    left: 100px;
+}
