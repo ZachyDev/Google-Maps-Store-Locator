@@ -58,7 +58,14 @@
             center: Nairobi,
             zoom: 8
           });
-        }
+        
+         // marker
+         var marker = new google.maps.Marker({
+            position: Nairobi,
+            map: map,
+            title: 'This is Nairobi'
+        });
+}
       </script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBh15L6ZQVrZVsMjwAhb_3-X6bbgpSGtQk&callback=initMap"
     async defer></script>
