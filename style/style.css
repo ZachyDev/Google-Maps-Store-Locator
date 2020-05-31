@@ -64,47 +64,10 @@ body {
 }
 .stores-list{
     width:300px;
-    background-color: rgb(197, 201, 198);
     border-radius: 15px;
     position: absolute;
     left: 100;
     left: 50px;
     height:55vh;
     top: 20px;
-}
-.store-address{
-    position: absolute;
-    top: 40px;
-    left: 40px;
-    font-size: 18px;
- 
-}
-.store-phone-number{
-    position: absolute;
-    top:90px;
-    left: 40px;
-    font-size: 18;
-    border-bottom: 2px solid black;
-}
-.store-address2{
-    position: absolute;
-    top: 150px;
-    left: 40px;
-    font-size: 18px;
-    border-bottom: 2px solid black;
-}
-.store-phone-number2{
-    position: absolute;
-    top: 400px;
-    left: 40px;
-    display: none;
-    font-size: 18;
-
-}
-.store-address3{
-    position: absolute;
-    top: 270px;
-    left: 40px;
-    font-size: 18px;
-    border-bottom: 2px solid black;
 }
